@@ -1,0 +1,2 @@
+# paradigmaPython
+Learning python
